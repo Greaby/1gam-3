@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/iso-tile.png-becf6c58ab49cea1bf0498db17925e81.stex"
+path="res://.import/hover-tile.png-413d639606b07234f276f4b27d08a56d.stex"
 
 [deps]
 
-source_file="res://iso-tile.png"
-source_md5="87e3f4ddb490509c67445add0bc59f78"
+source_file="res://assets/hover-tile.png"
+source_md5="e8a9af68019aa203313e2bfd8b90ae2b"
 
-dest_files=[ "res://.import/iso-tile.png-becf6c58ab49cea1bf0498db17925e81.stex" ]
-dest_md5="3dd20979415ee1976a56cecb07f3e341"
+dest_files=[ "res://.import/hover-tile.png-413d639606b07234f276f4b27d08a56d.stex" ]
+dest_md5="ca38481dfe94f240daca3c322a419a9d"
 
 [params]
 
